@@ -15,6 +15,14 @@
         android:layout_margin="16dp"
         android:text="Tips Calculator"/>
 
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:textSize="18sp"
+        android:text="Preencha os campos abaixo para realizar o calcúlo da sua conta"
+
+
 
     <EditText
         android:id="@+id/etValorConta"
